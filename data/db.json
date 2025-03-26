@@ -1,3 +1,73 @@
 {
-    "users": []
-  }
+  "users": [
+    {
+      "email": "kavyavineela@gmail.com",
+      "phone": "1234567890",
+      "dob": "2004-08-21",
+      "gender": "female",
+      "password": "123456",
+      "preferences": [
+        "Math"
+      ],
+      "id": 1
+    },
+    {
+      "email": "2211cs030011@mallareddyuniversity.ac.in",
+      "phone": "1234567890",
+      "dob": "2023-11-16",
+      "gender": "female",
+      "password": "123456",
+      "preferences": [
+        "History",
+        "Math",
+        "History"
+      ],
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "dob": "2018-12-31",
+      "gender": "female",
+      "password": "123456",
+      "preferences": [
+        "Science",
+        "Technology"
+      ],
+      "id": 3
+    },
+    {
+      "email": "tanu@gmail.com",
+      "phone": "1234567890",
+      "dob": "2021-12-27",
+      "gender": "female",
+      "password": "123456",
+      "preferences": [
+        "Math"
+      ],
+      "id": 4
+    },
+    {
+      "email": "abc@gmail.com",
+      "phone": "9876543210",
+      "dob": "2024-06-11",
+      "gender": "female",
+      "password": "123456",
+      "preferences": [
+        "Science"
+      ],
+      "id": 5
+    },
+    {
+      "email": "aashrita2022@gmail.com",
+      "phone": "1234567890",
+      "dob": "2025-02-04",
+      "gender": "female",
+      "password": "tanu@2004",
+      "preferences": [
+        "Science"
+      ],
+      "id": 6
+    }
+  ]
+}
