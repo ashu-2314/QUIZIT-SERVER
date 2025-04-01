@@ -68,6 +68,59 @@
         "Science"
       ],
       "id": 6
+    },
+    {
+      "email": "2211cs030084@mallareddyuniversity.ac.in",
+      "phone": "1234567890",
+      "dob": "2025-03-05",
+      "gender": "female",
+      "password": "ashrita2005",
+      "preferences": [
+        "Math"
+      ],
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "email": "2211cs030060@mallareddyuniversity.ac.in",
+      "phone": "1234567890",
+      "dob": "2025-03-25",
+      "gender": "female",
+      "password": "nandini2005",
+      "preferences": [
+        "History"
+      ],
+      "id": 10
+    },
+    {
+      "email": "2211cs030068@mallareddyuniversity.ac.in",
+      "phone": "1234567890",
+      "dob": "2025-03-26",
+      "gender": "female",
+      "password": "harshi2002",
+      "preferences": [
+        "Science"
+      ],
+      "id": 11
+    },
+    {
+      "email": "ashrita@gmail.com",
+      "phone": "1234567890",
+      "dob": "2025-03-05",
+      "gender": "female",
+      "username": "ashirta",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "preferences": [
+        "Science"
+      ],
+      "termsAccepted": true,
+      "id": 12
     }
   ]
 }
